@@ -2,7 +2,7 @@
 
 ## Design Summary
 
-This project utilizes Versal Devices Integrated 100G Multirate Ethernet MAC Subsystem. This design provides 4 ethernet interfaces routed to QSFP in a VPK180 board. This design is capable of doing dynamic runtime rate switching from 25G to 10G to 25G using *ethtool*. 
+This project utilizes Versal Devices Integrated 100G Multirate Ethernet MAC Subsystem. This design provides 3 ethernet interfaces routed to QSFP in a VPK180 board. This design is capable of doing dynamic runtime rate switching from 25G to 10G to 25G using *ethtool*. 
 
 
 ## Required Hardware
